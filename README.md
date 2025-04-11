@@ -1,4 +1,4 @@
-# Fraud-Detection-Project-Insurance-Claims-Dataiku-DSS
+
 #  Fraud Detection Project – Insurance Claims (Dataiku DSS)
 
 ##  Goal
