@@ -1,6 +1,9 @@
 
 #  Fraud Detection Project – Insurance Claims (Dataiku DSS)
 
+![image](https://github.com/user-attachments/assets/c4d494fe-228c-4620-91ea-a0d5b63b7ac2)
+
+
 ##  Goal
 Build a binary classification model to predict if a customer is likely to commit fraud based on historical insurance data, customer profiles, contracts, and location data.
 
