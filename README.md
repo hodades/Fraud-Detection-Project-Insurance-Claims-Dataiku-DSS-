@@ -1,7 +1,7 @@
 # Fraud-Detection-Project-Insurance-Claims-Dataiku-DSS
-# 🚨 Fraud Detection Project – Insurance Claims (Dataiku DSS)
+#  Fraud Detection Project – Insurance Claims (Dataiku DSS)
 
-## 🧠 Goal
+##  Goal
 Build a binary classification model to predict if a customer is likely to commit fraud based on historical insurance data, customer profiles, contracts, and location data.
 
 ---
@@ -17,7 +17,7 @@ Build a binary classification model to predict if a customer is likely to commit
 
 ---
 
-## 🧱 Workflow Overview (Dataiku)
+## Workflow Overview (Dataiku)
 
 ### 1.  **Data Joining**
 - Join `Contracts` with `Customers`
@@ -43,10 +43,10 @@ Build a binary classification model to predict if a customer is likely to commit
 
 ### 6.  **Machine Learning**
 - Algorithms used:
-  - Random Forest 🌲
-  - Logistic Regression 📊
-  - Gradient Boosting 📈
-  - Support Vector Machine (SVM) 💡
+  - Random Forest 
+  - Logistic Regression 
+  - Gradient Boosting 
+  - Support Vector Machine (SVM) 
 
 - Feature handling:
   - Avg-std rescaling for numerical variables
